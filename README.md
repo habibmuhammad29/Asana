@@ -26,9 +26,6 @@ Asana menawarkan berbagai fitur yang memudahkan manajemen proyek. Berikut adalah
 Dengan adanya integrasi dengan berbagai aplikasi dan fitur-fitur tersebut, Asana memungkinkan pengguna untuk mengelola proyek dengan lebih efisien, berkolaborasi dengan tim, dan mengawasi kemajuan proyek secara terorganisir.
 
 ## II. Cara Penggunaan *Tool* Asana
-
-<img src="Dokumentasi Asana/Asana.png" alt="Photo Asana" title="Logo Asana">
-
 ### A. Mendaftar Akun Asana
 
  **1. Persiapan Awal**
@@ -39,13 +36,13 @@ Daftar dengan Akun Google Work: Jika Anda sudah memiliki akun Google Work, Anda 
 
 Daftar dengan Alamat Email: Jika Anda tidak memiliki akun Google Work, Anda dapat menggunakan opsi "Memasukkan Alamat Email pada Textbox yang tersedia". Di sini, Anda harus memasukkan alamat email yang valid pada kotak teks yang disediakan. Setelah itu, klik tombol "Sign Up". Anda akan diarahkan ke halaman pendaftaran di mana Anda perlu mengisi informasi tambahan seperti nama, kata sandi, dan mungkin juga informasi tambahan tergantung pada kebutuhan pendaftaran.
 
-<img src="Dokumentasi Asana/Asana 1.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana1.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **2. Mempersiapkan akun**
 
 Kemudian lengkapi data nama lengkap dan password akun Asana. Setelah selesai terisi klik *button* "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 2.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana2.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **3. Mengisi form data peran utama**
 
@@ -53,7 +50,7 @@ Setelah melengkapi data nama dan password, tahap selanjutnya memilih peran utama
 pengguna sekarang status pekerjaan apa yang sedang dijalani. Hal ini digunakan untuk membantu menemukan produk Asana yang cocok dengan anda. Misal anda adalah seorang 
 pelajar, maka dapat memilih siswa pada pilihan peran yang tersedia di *dropdown*. Kemudian klik *button* "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 3.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana3.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **4. Memilih bidang pekerjaan**
 
@@ -61,89 +58,84 @@ Dilanjutkan dengan tahap memilih bidang pekerjaan anda. Hal ini juga digunakan u
 menggunakan *tool* Asana ini untuk melakukan manajemen proyek, maka pilih opsi yang tersedia dan sesuai yaitu "*Project or Program Management*". Bila sudah serasa 
 memilih opsi yang diperlukan klik *button* "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 4.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana4.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **5. Memilih tujuan penggunaan Asana**
 
 Setelah memilih bidang pekerjaan anda yaitu "*Project or Program Management*". Maka terdapat opsi tujuan apa yang anda akan lakukan di Asana. Terdapat rekomendasi untuk anda 
 pada opsi tersebut. Selanjutnya jika sudah klik *button* "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 5.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana5.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **6. Konfigurasi proyek pertama**
 
 Setelah mengisi beberapa form, dilanjutkan untuk memberi nama pada proyek pertama anda. Jika sudah klik *button* "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 6.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana6.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **7. Mengisi apa saja tugas yang mau dikerjakan**
 
 Pada tahap ini anda perlu mengisikan tugas apa saja yang mau dikerjakan pada proyek pertamamu. Jika sudah seperti biasa klik *button* "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 7.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana7.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **8. Mengelompokkan tugas**
 
 Pada tahap kali ini anda bisa mengelompokkan tugas-tugas ke dalam bagian atau tahapan proyek. Jika sudah klik *button* "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 8.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana8.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **9. Memilih tata letak proyek**
 
 Setelah serangkaian tahapan, dilanjutkan dengan memilih tata letak yang sesuai dan efektif untuk proses manajemen proyek yang anda lakukan. Jika sudah klik *button* 
 "*Continue*".
 
-<img src="Dokumentasi Asana/Asana 9.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana9.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **10. Mengundang rekan tim**
 
 Anda dapat mengundang rekan melalui alamat email jika proyek yang dikerjakan dalam bentuk tim. Jika sudah klik *button* "*Continue*" dan akan ditampilkan halaman yang berisikan 
 button *hyperlink* untuk mengunduh Asana versi iOS, Android, atau desktop. Jika tidak ingin mengunduhnya anda bisa klik *button* "*Skip for now*".
 
-<img src="Dokumentasi Asana/Asana 10.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana10.jpeg" alt="Photo Asana" title="Preview Asana">
 
-<img src="Dokumentasi Asana/Asana 11.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana11.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **11. Dashboard Asana**
 
 Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard Asana tepatnya pada ruang kerja proyek pertama yang telah dibuat.
 
-<img src="Dokumentasi Asana/Asana 12.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana12.jpeg" alt="Photo Asana" title="Preview Asana">
 
 ### B. Cara membuat proyek baru
 
  **1. Untuk membuat proyek baru klik *button* "*plus*" pada pojok kanan atas, kemudian klik opsi "*Project*"**
 
-<img src="Dokumentasi Asana/Asana 13.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana13.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **2. Kemudian anda bisa memilih opsi "Blank project" untuk memulai proyek kosongan**
 
-<img src="Dokumentasi Asana/Asana 14.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana14.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **3. Lalu, beri nama proyek dan pilih tampilan dari proyekmu bisa berupa *List*, *Board*, *Timeline*, dan *Calender*. Dan disini anda bisa mengatur privasi ruang kerja 
  proyekmu ini yang bersifat privat atau publik di dropdown yang tersedia. Selanjutnya klik *button* "*Continue*"**
 
-<img src="Dokumentasi Asana/Asana 15.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana15.jpeg" alt="Photo Asana" title="Preview Asana">
 
-<img src="Dokumentasi Asana/Asana 16.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana16.jpeg" alt="Photo Asana" title="Preview Asana">
 
-<img src="Dokumentasi Asana/Asana 17.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana17.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **4. Setelah beberapa tahapan selesai, anda akan dibawa langsung ke tampilan ruang kerja proyek**
 
-<img src="Dokumentasi Asana/Asana 18.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana18.jpeg" alt="Photo Asana" title="Preview Asana">
 
  **5. Di ruang kerja proyek ini anda bisa mengubah nama proyek, bisa mengundang rekan kerja untuk berpartisipasi dalam proyek yang mau diselesaikan, dan tanggal batasan mau 
  dikerjakan sampai kapan proyeknya**
 
-<img src="Dokumentasi Asana/Asana 19.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana19.jpeg" alt="Photo Asana" title="Preview Asana">
 
-<img src="Dokumentasi Asana/Asana 20.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana20.jpeg" alt="Photo Asana" title="Preview Asana">
 
-<img src="Dokumentasi Asana/Asana 21.png" alt="Photo Asana" title="Preview Asana">
+<img src="Dokumentasi Asana/asana21.jpeg" alt="Photo Asana" title="Preview Asana">
 
- **6. Apabila proyek yang dikerjakan sudah selesai, anda dapat memberikan centang dengan klik *button* "*Mark complete*" sebagai pertanda bahwa tugas tersebut telah 
- diselesaikan**
-
-<img src="Dokumentasi Asana/Asana 22.png" alt="Photo Asana" title="Preview Asana">
-<img src="Dokumentasi Asana/Asana 23.png" alt="Photo Asana" title="Preview Asana">
